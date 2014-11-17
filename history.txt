@@ -1,0 +1,110 @@
+    1  sudo apt-get install vlc
+    2  sudo add-apt-repository ppa:numix/ppa
+    3  sudo apt-get update && sudo apt-get install numix-gtk-theme
+    4  sudo apt-get install numix-icon-theme-circle
+    5  sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf
+    6  sudo apt-get install p7zip-full
+    7  sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/colomboem/xUbuntu_14.10/ /' >> /etc/apt/sources.list.d/dukto.list"
+    8  sudo apt-get update
+    9  sudo apt-get install dukto
+   10  ls
+   11  cd Downlo
+   12  cd pwd
+   13  cd password
+   14  cd passwd
+   15  cd Desktop/
+   16  ls
+   17  java
+   18  ping google.com
+   19  ls
+   20  cd Documents/
+   21  ls
+   22  cd passwd
+   23  cd ../javatest/
+   24  ls
+   25  git init
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m "initial changes added"
+   30  git statusls
+   31  ls
+   32  ls .git/
+   33  cd ../gitstart/
+   34  ls
+   35  vim test.txt 
+   36  git status
+   37  git add test.txt 
+   38  git status
+   39  git log
+   40  git commit -m "initial commit"
+   41  git config --global user.email "neeraj.eddy0@gmail.com"
+   42  git log
+   43  git status
+   44  git commit -m "initial commit"
+   45  vim test.txt 
+   46  git status
+   47  git diff
+   48  kgit add test.txt 
+   49  git add test.txt 
+   50  git status
+   51  git commit -m "some changes"
+   52  git status
+   53  rm test.txt 
+   54  ls
+   55  ls -al
+   56  git status
+   57  git add test.txt 
+   58  git status
+   59  git commit -m "deleted file test.txt"
+   60  git status
+   61  git log
+   62  git log --one-line
+   63  ld
+   64  ls
+   65  echo "test file" > test1.txt
+   66  ls
+   67  cat test1.txt 
+   68  git status
+   69  git add test1.txt 
+   70  git status
+   71  git commit -m "added test1.txt"
+   72  git statuys
+   73  git status
+   74  git remote add https://github.com/neeraj135/test.git
+   75  git remote add origin https://github.com/neeraj135/test.git
+   76  git pull origin master
+   77  git status
+   78  git log 
+   79  ls
+   80  git push origin master
+   81  history
+   82  history > history.txt
+   83  cat history.txt 
+   84  cd ../javatest/
+   85  ls
+   86  git status
+   87* git commit -m "added basic files"[B
+   88  git status
+   89  git log
+   90  git remote add test git@github.com:neeraj135/java-.git
+   91  git remote
+   92  git pull test master
+   93  vim ~/.ssh/known_hosts 
+   94  git pull test master
+   95  git remote add test git@github.com:neeraj135/java.git
+   96  git remote add test git@github.com:neeraj135/java.gitgit remote
+   97  git remote
+   98  git remote add test https://github.com/neeraj135/java-.git
+   99  git remote remove test
+  100  git remote add test https://github.com/neeraj135/java-.git
+  101  git pull test master
+  102  git push test master
+  103  git status
+  104  rm README.TXT 
+  105  gedit README.md 
+  106  git status
+  107  cat history.txt 
+  108  ls
+  109  history
+  110  history>history.txt
